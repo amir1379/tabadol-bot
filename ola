@@ -1,0 +1,27 @@
+NULL
+array(2) {
+  [0]=>
+  bool(false)
+  [1]=>
+  bool(false)
+}
+array(2) {
+  ["Location"]=>
+  string(4) "home"
+  ["Step"]=>
+  int(1)
+}
+object(stdClass)#1 (3) {
+  ["ok"]=>
+  bool(false)
+  ["error_code"]=>
+  int(400)
+  ["description"]=>
+  string(29) "Bad Request: chat_id is empty"
+}
+array(2) {
+  ["Location"]=>
+  string(4) "home"
+  ["Step"]=>
+  string(1) "1"
+}
